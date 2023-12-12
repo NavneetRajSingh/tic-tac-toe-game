@@ -34,6 +34,12 @@ To run this game, you need Python installed on your system along with the Tkinte
 - The game can be reset at any time using the 'Reset' button.
 - Scores are displayed at the end of each game.
 
+## Output
+<div>
+    <img src="https://github.com/NavneetRajSingh/tic-tac-toe-game/blob/main/output/output%20(1).png" alt="First Image" style="width: 50%;"/>
+    <img src="https://github.com/NavneetRajSingh/tic-tac-toe-game/blob/main/output/output%20(2).png" alt="Second Image" style="width: 50%;"/>
+</div>
+
 ## Contributions
 
 Contributions to this project are welcome. You can contribute by improving the code, adding features, or fixing bugs. Please follow standard coding practices and submit pull requests for any changes.
